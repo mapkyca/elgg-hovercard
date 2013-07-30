@@ -9,6 +9,7 @@ $(document).ready(function () {
     
     $(".hovercard-custom").hovercard({
         showCustomCard: true,
+        delay: 1000
     });
 });
 </script>

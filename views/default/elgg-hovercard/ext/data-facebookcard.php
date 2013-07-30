@@ -8,7 +8,8 @@
 $(document).ready(function () {
     
     $(".hovercard-facebook").hovercard({
-        showFacebookCard: true 
+        showFacebookCard: true,
+        delay: 1000
     });
 });
 </script>

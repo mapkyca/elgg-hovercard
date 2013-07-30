@@ -8,7 +8,8 @@
 $(document).ready(function () {
     
     $(".hovercard-twitter").hovercard({
-        showTwitterCard: true 
+        showTwitterCard: true,
+        delay: 1000
     });
 });
 </script>
